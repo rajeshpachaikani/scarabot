@@ -1,0 +1,2 @@
+# scarabot
+SCARABOT FROM SCRATCH
